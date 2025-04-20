@@ -1,6 +1,6 @@
 # CS 499 Capstone – Christian Foster
 
-Welcome to my CS 499 Capstone ePortfolio repository. This portfolio highlights my academic journey and the technical growth I’ve achieved through the Computer Science program at Southern New Hampshire University (SNHU). It includes enhanced artifacts in software engineering, algorithms and data structures, and database development, along with documentation and reflections that demonstrate my readiness for real-world development work.
+Welcome to my CS 499 Capstone ePortfolio repository. This portfolio highlights my academic journey and the technical growth I’ve achieved through the Computer Science program at Southern New Hampshire University. It includes enhanced artifacts in software engineering, algorithms and data structures, and database development, along with documentation and reflections that demonstrate my readiness for real-world development work.
 
 ## Artifacts Overview
 
